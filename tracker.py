@@ -2,4 +2,4 @@ def floodPrint(n):
 	for i in range(n):
 		print("Hello Git")
 
-floodPrint(10)
+floodPrint(20)
